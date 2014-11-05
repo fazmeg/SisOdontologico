@@ -34,7 +34,7 @@ setlocale(LC_ALL,"es_ES@euro","es_ES","esp");
 */
 //LOCAL
 $URL='http://localhost';
-$folder='/app-odontoclinic.ec/';
+$folder='/SisOdontologico/';
 define('RUTA',$_SERVER['DOCUMENT_ROOT'].$folder);
 define('RUTAcom',$_SERVER['DOCUMENT_ROOT'].$folder.'componentes/');
 define('RUTAcon',$_SERVER['DOCUMENT_ROOT'].$folder.'connections-db/');
